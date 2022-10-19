@@ -168,8 +168,8 @@
 
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
-            ctx.font = "16px Roboto,Arial";
-            ctx.fillText("(^20-10->D8^)", 23, 10);
+            ctx.font = "13px Roboto,Arial";
+            ctx.fillText("20-10->D8", 23, 10);
             ctx.restore();
         },
         clear: function() {
